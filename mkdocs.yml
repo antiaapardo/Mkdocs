@@ -1,0 +1,9 @@
+site_name: Documentacion de PYPI
+nav:
+  - Home: index.md
+  - Sobre el Proyecto: about.md
+  - API Reference: api_reference.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Contributing: contributing.md
+  - License: license.md

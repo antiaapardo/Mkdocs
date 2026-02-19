@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+pypi_Antia/__init__.py
+pypi_Antia/hola_mundo.py
+pypi_Antia.egg-info/PKG-INFO
+pypi_Antia.egg-info/SOURCES.txt
+pypi_Antia.egg-info/dependency_links.txt
+pypi_Antia.egg-info/entry_points.txt
+pypi_Antia.egg-info/requires.txt
+pypi_Antia.egg-info/top_level.txt

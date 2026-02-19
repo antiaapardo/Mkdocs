@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: pypi_Antia
+Version: 0.0.1
+Summary: Hola mundo con PySide6
+Author: Antia
+Author-email: Antia@email.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: PySide6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
+
+# Hola Mundo con PySide6
+ 
+Este paquete muestra una ventana con un mensaje "Hola mundo" usando PySide6.
+ 
+## InstalaciÃ³n
+ 
+```bash
+
+pip install pypi_Antia
+
+ 
