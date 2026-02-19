@@ -1,9 +1,16 @@
-site_name: Documentacion de PYPI
+site_name: Hola Mundo PySide6
+theme:
+  name: material
+ 
 nav:
-  - Home: index.md
-  - Sobre el Proyecto: about.md
-  - API Reference: api_reference.md
-  - Installation: installation.md
-  - Usage: usage.md
-  - Contributing: contributing.md
-  - License: license.md
+  - Inicio: index.md
+  - About: about.md
+  - Descarga en PDF: pdf.md
+ 
+plugins:
+  - search
+  - with-pdf:
+      output_path: C:\Users\ANTIA\OneDrive - NT FOR LEARNING SL\Escritorio\DAM\SEGUNDO CURSO\DESARROLLO DE INTERFACES\Pypi\docs\documentacion.pdf
+      cover_title: "Hola Mundo PySide6"
+      cover_subtitle: "Documentación del proyecto"
+      toc_title: "Índice"
